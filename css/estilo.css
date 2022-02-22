@@ -1,0 +1,9 @@
+h1 {
+	color: magenta;
+}
+nav{
+	background-color: blue;
+}
+.navbar-collapse{
+	justify-content: flex-end;
+}
